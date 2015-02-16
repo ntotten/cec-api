@@ -1,7 +1,7 @@
-# Simple CEC API
+# Simple CEC REST API
 This is a dead simple API that enables sending basic commands to [libcec](https://github.com/Pulse-Eight/libcec) through the cec-client.
 
-## Instal
+## Install
 
 ```
 npm install ntotten/cec-api
